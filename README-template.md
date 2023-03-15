@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/chill31/chill31-fylo-template)
 - Live Site URL: [chill31-fylo-template.vercel.app](https://chill31-fylo-template.vercel.app)
 
 ## My process
